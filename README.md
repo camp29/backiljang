@@ -7,7 +7,7 @@
 지 : 지금 보는 강아지는 몽이입니다
 ```
 
-![몽이](./assets/mong.jpg){: width="150" height="150"}
+![몽이](./assets/mong.jpg)
 
 
 - 고양이
@@ -16,4 +16,4 @@
 양 : 양옹
 이 : 이 고양이 이름은 까미입니다
 ```
-![까미](./assets/kkami.jpg){: width="150" height="150"}
+![까미](./assets/kkami.jpg)
